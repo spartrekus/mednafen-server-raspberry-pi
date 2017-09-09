@@ -19,5 +19,11 @@ Mednafen is perfect for 1, 2, 3 up to 4 players.
 (fceux, in comparison, is rather several bugs still)
 
 Mednafen Server for 4p is OK, great and it will work on Raspberry. The Netplay of Mednafen was successfully tested with 4 clients over network with mednafen 0.9.41 using 4 x PI Boxes and one PI server.
-More info on Wikipedia: https://en.wikipedia.org/wiki/NES_Four_Score
+
+
+More info on Wikipedia and mednafen websites: 
+
+https://en.wikipedia.org/wiki/NES_Four_Score
+
+https://mednafen.github.io/documentation/netplay.html
 
