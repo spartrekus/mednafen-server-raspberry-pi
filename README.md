@@ -21,3 +21,5 @@ Mednafen is perfect for 1, 2, 3 up to 4 players.
 Mednafen Server for 4p is OK, great and it will work on Raspberry.
 
 tested: mednafen 0.9.41 on the 4 RPI/Box.
+More info on Wikipedia: https://en.wikipedia.org/wiki/NES_Four_Score
+
