@@ -9,10 +9,13 @@ Your server is at 192.168.123.100
 
 
 # Client side
-$ mednafen
+$ mednafen "$1"
 press 't'
 and type: 
  /connect 192.168.123.100
+ 
+ Alternatively one can type the command line: mednafen  -vdriver sdl -connect -netplay.host 192.168.123.100  "$1" 
+  
 
 # Conclusion
 Mednafen is perfect for 1, 2, 3 up to 4 players. 
